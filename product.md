@@ -30,4 +30,4 @@ geogrep key features are,
 	Inbuilt User Management
 	Content Management for Videos/Images/Docs on Cloud
 
-<p><a href="http://www.geogrep.net:9090/geogrep-client/">Demo</a> available!</p>
+<p><a href="http://demo.geogrep.net:9090/geogrep-client/">Demo</a> available!</p>
